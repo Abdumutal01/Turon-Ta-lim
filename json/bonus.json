@@ -1,0 +1,25 @@
+[{
+        "id": 0,
+        "img": "https://najottalim.uz/_next/image?url=%2Fimages%2Fbonus-energy.png&w=96&q=75",
+        "name": "5 000 000 so‘mgacha pul mukofoti",
+        "text": "IT park rezidenti bo‘lgan ekspartyor kompaniyalarda 6 oydan ko‘proq muddat ishlagan bitiruvchilarga 5 000 000 so‘mgacha pul mukofoti beriladi. <span style='color: #F04438;'>*</span>  "
+    },
+    {
+        "id": 1,
+        "img": "https://najottalim.uz/_next/image?url=%2Fimages%2Fbonus-board2.png&w=96&q=75",
+        "name": "Ingliz tili kursi uchun 5 000 000 so‘mgacha vaucher",
+        "text": "Ingliz tilini “Najot Ta'lim”da o'rganishingiz uchun 4 000 000 so'mli yoki «Cambridge» o'quv markazida o'qishingiz uchun 1 000 000 so'mli vaucherlar taqdim etamiz."
+    },
+    {
+        "id": 2,
+        "img": "https://najottalim.uz/_next/image?url=%2Fimages%2Fbonus-note2.png&w=96&q=75",
+        "name": "Onlayn kursni bepul qo‘lga kiriting",
+        "text": "Kasbiy ta‘lim dasturida o‘qish niyatida bo‘lgan va kurs uchun to‘lovni oldindan to‘liq amalga oshirganlar uchun najottalim.uz onlayn platformasidan 2,500,000 so‘m qiymatdagi Dasturlash foundation kursi bepul taqdim etiladi."
+    },
+    {
+        "id": 3,
+        "img": "https://najottalim.uz/_next/image?url=%2Fimages%2Fbonus-cactus2.png&w=96&q=75",
+        "name": "Chet elga sayohat qilish imkoniyati",
+        "text": "Musobaqalarda kamida yilda bir marotaba chet elga bepul sayohat qilish imkoniyatini beramiz."
+    }
+]

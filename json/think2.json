@@ -1,0 +1,43 @@
+[{
+        "id": 1,
+        "text": "Ko‘p kuzatganman: «Najot Ta'lim» bitiruvchilari har taraflama ko'nikmasi bor. Berilgan vazifalarni sidqidildan, mas'uliyat bilan qilishga harakat qilishadi. Shunisi bilan",
+        "user": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "name": "Bexzod Nasriddinov",
+        "job": "SMM mutaxassisi"
+    },
+    {
+        "id": 2,
+        "text": "Grafik Dizayn kursini 2022-yil Noyabr oyida boshlab, 2023-yil Iyun oyida tamomladim. Bu vaqt oralig’ida G’iyos Hojiyev ustozimdan bilim va ko’nikmalar oldim. Kurs haqidagi",
+        "user": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "name": "Ulug'bek Raxmonov",
+        "job": "Grafik dizayner"
+    },
+    {
+        "id": 3,
+        "text": "Assalomu alaykum, avvalombor katta rahmat Najot ta'lim jamoasi ustozlari va rahbariyatlariga. Najot ta'limni tanlagamimdan hech afsuslanmayman, bu yerga hamma",
+        "user": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "name": "Akbar Ahmadjonov",
+        "job": "Fullstack dasturchi"
+    },
+    {
+        "id": 4,
+        "text": "Assalomu alaykum. «Najot Taʼlim» markazida Front-End kursini tamomladim. Va hozirda Back-End kursida oʻqiyapman. Kurslar juda zoʻr tashkillashtirilgan. Ustozlar tajribali va",
+        "user": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "name": "Humoyun Mirzo",
+        "job": "Frontend dasturchi"
+    },
+    {
+        "id": 5,
+        "text": "Men Rustamkulov Muhammadali, dotNET kursida o‘qiyman «Najot Ta'lim» o‘qitish tizimi va o‘qituvchilar bilimi haqida fikrim ijobiy. «Najot Ta'lim»da o‘qimoqchi bo‘lganlarga",
+        "user": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "name": "Rustamkulov Muhammadali",
+        "job": "Dasturchi"
+    },
+    {
+        "id": 6,
+        "text": "SMM Pro kursida o'qiyapman. Kurs hagida fikrim samimiy. Bu kurs marketingga kerakli barcha bilimlar kuchli mutaxassislar orqali tuzilgan ekan. Shuningdek, soft skills ga ha",
+        "user": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "name": "Jonibek Salomatov",
+        "job": "SMM mutaxassisi"
+    }
+]

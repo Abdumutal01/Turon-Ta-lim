@@ -1,0 +1,29 @@
+[{
+        "id": 0,
+        "img": "https://najottalim.uz/_next/image?url=https%3A%2F%2Fnws.cdn.najottalim.uz%2Fmain-server%2Fposts%2Fe2b1edb1-33c3-4226-90fa-4c9f4c5f9e47.png&w=1920&q=100",
+        "name": "Ona plata qanday ishlaydi?",
+        "text": "Bu galgi maqolada ona plata haqida batafsil ko‘rib chiqamiz.",
+        "see": 46,
+        "day": "04-sentabr, 2024",
+        "new": "Yangiliklar"
+    },
+    {
+        "id": 1,
+        "img": "https://najottalim.uz/_next/image?url=https%3A%2F%2Fnws.cdn.najottalim.uz%2Fmain-server%2Fposts%2F06dafa31-fc52-44ae-9268-54f70f013e10.jpg&w=1920&q=100",
+        "name": "🏆 «Marketing Team» va «Flutter» musobaqalari g'oliblari taqdirlandi",
+        "text": "26-avgust — yakshanba kuni musobaqa g'oliblari uchun taqdirlash marosimi bo'lib o'tdi.",
+        "see": 61,
+        "day": " 28-avgust, 2024",
+        "new": " Tadborkorlik"
+    },
+    {
+        "id": 2,
+        "img": "https://najottalim.uz/_next/image?url=https%3A%2F%2Fnws.cdn.najottalim.uz%2Fmain-server%2Fposts%2F8ba287c3-20c1-47ee-a347-059534d7ff4e.jpg&w=1920&q=100",
+        "name": "📶 QA yo'nalishi bo'yicha yakka tartibdagi musobaqaga start berildi",
+        "text": "25-avgust — yakshanba kuni QA bo'yicha ham musobaqa tashkil etildi.",
+        "see": 142,
+        "day": "28-avgust, 2024",
+        "new": "Tadborkorlik"
+    }
+
+]

@@ -1,0 +1,37 @@
+[{
+        "id": 0,
+        "img": "<svg xmlns='http://www.w3.org/2000/svg' width='48' height='48' fill='none'><rect width='48' height='48' fill='#D38A51' rx='24'></rect><path fill='#fff' d='M38.639 15.585c-.957-1.649-3.48-2.02-7.313-1.083A11.991 11.991 0 0 0 12 24q0 .773.098 1.539c-3.462 3.586-3.412 5.711-2.736 6.876C10 33.52 11.33 34 13.08 34a15.5 15.5 0 0 0 3.599-.5 11.992 11.992 0 0 0 19.225-11.031c1.562-1.625 2.602-3.169 2.956-4.49.244-.915.17-1.72-.221-2.394M24 14a10.014 10.014 0 0 1 9.75 7.775c-2.133 2.008-5.019 4.066-7.759 5.641-3.443 1.976-6.431 3.209-8.814 3.884A9.993 9.993 0 0 1 24 14M11.093 31.411c-.183-.314-.082-.905.277-1.625a10 10 0 0 1 1.286-1.881 12 12 0 0 0 2.25 3.915c-2.156.362-3.501.131-3.814-.409M24 34a9.93 9.93 0 0 1-4.82-1.242 46.3 46.3 0 0 0 7.804-3.608c2.697-1.549 5.085-3.227 7.008-4.885A10.01 10.01 0 0 1 24 34m12.928-16.539c-.213.789-.774 1.692-1.58 2.642a12 12 0 0 0-2.25-3.92c1.777-.293 3.422-.27 3.813.406.113.196.119.49.017.872'></path></svg>",
+        "name": "Bepul kovorking",
+        "text": "24/7 formatida tun-u kun ishlaydigan bepul kovorking va wifi."
+    },
+    {
+        "id": 1,
+        "img": "<svg xmlns='http://www.w3.org/2000/svg' width='48' height='48' fill='none'><rect width='48' height='48' fill='#3CA8B8' rx='24'></rect><path fill='#fff' d='m36.688 22.125-7.93-2.875-2.883-7.937a2 2 0 0 0-3.75 0L19.25 19.24l-7.937 2.884a2 2 0 0 0 0 3.75l7.928 2.875 2.884 7.938a2 2 0 0 0 3.75 0l2.884-7.93 7.929-2.883a2 2 0 0 0 0-3.75m-8.617 4.75a2 2 0 0 0-1.192 1.192L24 35.988l-2.875-7.916a2 2 0 0 0-1.196-1.196L12.013 24l7.916-2.875a2 2 0 0 0 1.196-1.196L24 12.013l2.875 7.916a2 2 0 0 0 1.192 1.192l7.917 2.875z'></path></svg>",
+        "name": "Sifatli ta'lim",
+        "text": "Doimiy yangilanib boradigan kurslar va katta tajribaga ega ustozlar."
+    },
+    {
+        "id": 2,
+        "img": "<svg xmlns='http://www.w3.org/2000/svg' width='48' height='48' fill='none'><rect width='48' height='48' fill='#7CC069' rx='24'></rect><path fill='#fff' d='M34.974 22.771a1 1 0 0 0-.625-.707l-7.201-2.701 1.832-9.167a1 1 0 0 0-1.711-.875l-14 15a1 1 0 0 0 .375 1.625l7.204 2.701-1.828 9.157a1 1 0 0 0 1.711.875l14-15a1 1 0 0 0 .243-.908M21.67 34.75l1.309-6.547a1 1 0 0 0-.625-1.133l-6.605-2.481 10.578-11.333-1.308 6.548a1 1 0 0 0 .625 1.132l6.6 2.475z'></path></svg>",
+        "name": "Doimiy musobaqalar",
+        "text": "Dasturlash, dizayn va marketing sohalari bo‘yicha haftalik sovrinli musobaqalar."
+    },
+
+    {
+        "id": 3,
+        "img": "<svg xmlns='http://www.w3.org/2000/svg' width='48' height='48' fill='none'><rect width='48' height='48' fill='#A277C6' rx='24'></rect><path fill='#fff' d='M39 23.5a7.01 7.01 0 0 0-4-6.326V17a6 6 0 0 0-11-3.311A6 6 0 0 0 13 17v.174a7 7 0 0 0 0 12.65V30a6 6 0 0 0 11 3.311A6 6 0 0 0 35 30v-.176a7.01 7.01 0 0 0 4-6.324M19 34a4 4 0 0 1-3.976-3.57q.486.07.976.07h1a1 1 0 0 0 0-2h-1a5 5 0 0 1-1.666-9.716A1 1 0 0 0 15 17.84V17a4 4 0 1 1 8 0v8.532A5.98 5.98 0 0 0 19 24a1 1 0 1 0 0 2 4 4 0 0 1 0 8m13-5.5h-1a1 1 0 1 0 0 2h1q.491 0 .976-.07A4 4 0 1 1 29 26a1 1 0 0 0 0-2 5.98 5.98 0 0 0-4 1.532V17a4 4 0 1 1 8 0v.841a1 1 0 0 0 .666.943A5 5 0 0 1 32 28.5m2-6.5a1 1 0 0 1-1 1h-.5a4.5 4.5 0 0 1-4.5-4.5V18a1 1 0 1 1 2 0v.5a2.5 2.5 0 0 0 2.5 2.5h.5a1 1 0 0 1 1 1m-18.5 1H15a1 1 0 1 1 0-2h.5a2.5 2.5 0 0 0 2.5-2.5V18a1 1 0 1 1 2 0v.5a4.5 4.5 0 0 1-4.5 4.5'></path></svg>",
+        "name": "Bepul mahorat darslari",
+        "text": "Soha mutaxassislari bilan doimiy o‘tkaziladigan bepul master-klasslar."
+    },
+    {
+        "id": 4,
+        "img": "<svg xmlns='http://www.w3.org/2000/svg' width='48' height='48' fill='none'><rect width='48' height='48' fill='#C5A75A' rx='24'></rect><path fill='#fff' d='M35 34h-6v-3h.5a8.51 8.51 0 0 0 8.5-8.5 3.5 3.5 0 1 0-7 0 1.5 1.5 0 0 1-1.5 1.5H29v-9a5 5 0 1 0-10 0v4h-.5a1.5 1.5 0 0 1-1.5-1.5 3.5 3.5 0 1 0-7 0 8.51 8.51 0 0 0 8.5 8.5h.5v8h-6a1 1 0 0 0 0 2h22a1 1 0 0 0 0-2M20 24h-1.5a6.507 6.507 0 0 1-6.5-6.5 1.5 1.5 0 1 1 3 0 3.5 3.5 0 0 0 3.5 3.5H20a1 1 0 0 0 1-1v-5a3 3 0 0 1 6 0v10a1 1 0 0 0 1 1h1.5a3.5 3.5 0 0 0 3.5-3.5 1.5 1.5 0 1 1 3 0 6.507 6.507 0 0 1-6.5 6.5H28a1 1 0 0 0-1 1v4h-6v-9a1 1 0 0 0-1-1'></path></svg>",
+        "name": "Ish taklif qilish kafolati * ",
+        "text": "Turon Ta'lim” intensiv kurslarni muvaffaqiyatli bitirgan o‘quvchilarga ish taklif qilish kafolatini beradi. * "
+    }, {
+        "id": 5,
+        "img": "<svg xmlns='http://www.w3.org/2000/svg' width='48' height='48' fill='none'><rect width='48' height='48' fill='#789FD6' rx='24'></rect><path fill='#fff' d='M39 24a7 7 0 1 0-12 4.892V36a1 1 0 0 0 1.448.895L32 35.117l3.553 1.778A1 1 0 0 0 37 36v-7.108A6.98 6.98 0 0 0 39 24m-7-5a5 5 0 1 1 0 10 5 5 0 0 1 0-10m.447 14.105a1 1 0 0 0-.895 0L29 34.383v-4.06a7 7 0 0 0 6 0v4.06zM25 32a1 1 0 0 1-1 1H13a2 2 0 0 1-2-2V15a2 2 0 0 1 2-2h22a2 2 0 0 1 2 2 1 1 0 0 1-2 0H13v16h11a1 1 0 0 1 1 1m-2-7a1 1 0 0 1-1 1h-5a1 1 0 0 1 0-2h5a1 1 0 0 1 1 1m0-4a1 1 0 0 1-1 1h-5a1 1 0 0 1 0-2h5a1 1 0 0 1 1 1'></path></svg>",
+        "name": "Sertifikat",
+        "text": "Kursni muvaffaqiyatli tamomlagan o‘quvchilar “Turon Ta'lim”ning diplomi va sertifikatiga ega bo‘ladi."
+    }
+]

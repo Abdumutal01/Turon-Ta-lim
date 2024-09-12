@@ -1,0 +1,16 @@
+[{
+        "id": 0,
+        "img": "https://najottalim.uz/_next/image?url=%2Fimages%2Fprogramming.png&w=256&q=75",
+        "name": "Dasturlash"
+    },
+    {
+        "id": 1,
+        "img": "https://najottalim.uz/_next/image?url=%2Fimages%2Fdesign.png&w=256&q=75",
+        "name": "Dizayn"
+    },
+    {
+        "id": 2,
+        "img": "https://najottalim.uz/_next/image?url=%2Fimages%2Fmarketing.png&w=256&q=75",
+        "name": "Marketing"
+    }
+]

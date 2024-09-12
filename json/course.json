@@ -1,0 +1,85 @@
+[
+    {
+        "id":0,
+        "img":"https://najottalim.uz/_next/image?url=https%3A%2F%2Fnws.cdn.najottalim.uz%2Fmain-server%2Fcourses%2FArtboard%25202%2520copy%252011_d4a52081-3d23-4d51-a2f1-64d9d073f598.png&w=96&q=75",
+        "name":"Dasturlash foundation",
+        "moon":5,
+        "theSame":"Dasturlash",
+        "link1":"Bootcamp"
+   
+    },
+    {
+        "id":1,
+        "img":"https://najottalim.uz/_next/image?url=https%3A%2F%2Fnws.cdn.najottalim.uz%2Fmain-server%2Fcourses%2FReact_b10c4f5c-5fcb-4a78-a333-f981085b81f7.png&w=96&q=75",
+        "name":"React",
+        "moon":"8",
+        "theSame":"Dasturlash",
+        "link1":"Standard"
+    },
+
+    {
+        "id":2,
+        "img":"https://najottalim.uz/_next/image?url=https%3A%2F%2Fnws.cdn.najottalim.uz%2Fmain-server%2Fcourses%2FArtboard%202%20copy%2011-2_19bdf2aa-6671-48a3-80ff-918a497f5207.png&w=96&q=75",
+        "name":"Grafik dizayn",
+        "moon":7,
+        "theSame":"Design",
+        "link1":"Bootcamp"
+       
+    },
+    {
+        "id":3,
+        "img":"https://najottalim.uz/_next/image?url=https%3A%2F%2Fnws.cdn.najottalim.uz%2Fmain-server%2Fcourses%2FPython_279793f4-74b5-40eb-ad5a-3458c8f7b1cc.png&w=96&q=75",
+        "name":"Python",
+        "moon":8,
+        "theSame":"Dasturlash",
+        "link1":"Standard"
+    },
+    {
+        "id":4,
+        "img":"https://najottalim.uz/_next/image?url=https%3A%2F%2Fnws.cdn.najottalim.uz%2Fmain-server%2Fcourses%2FVueSJ_051b8ef7-b5a2-4504-b180-98d1c4773ae3.png&w=96&q=75",
+        "name":"Vue.js",
+        "moon":8,
+        "theSame":"Dasturlash",
+        "link1":"Standard"
+    },
+    {
+        "id":5,
+        "img":"https://najottalim.uz/_next/image?url=https%3A%2F%2Fnws.cdn.najottalim.uz%2Fmain-server%2Fcourses%2FGr%2520dizayn_d33318d6-0a8c-4b98-963b-55e41bb5909e.png&w=96&q=75",
+        "name":"Grafik Dizayn",
+        "moon":7,
+        "theSame":"Design",
+        "link1":"Standard"
+    },
+    {
+        "id":6,
+        "img":"https://najottalim.uz/_next/image?url=https%3A%2F%2Fnws.cdn.najottalim.uz%2Fmain-server%2Fcourses%2Ff9666d83-40e7-4234-930e-e3d480102588.png&w=96&q=75",
+        "name":"QA (Quality Assurance)",
+        "moon":4,
+        "theSame":"Dasturlash",
+        "link1":"Standard"
+    },
+    {
+        "id":7,
+        "img":"https://najottalim.uz/_next/image?url=https%3A%2F%2Fnws.cdn.najottalim.uz%2Fmain-server%2Fcourses%2FArtboard%25202%2520copy%252010_92b6ff59-4888-4ef0-88c5-083641f6273e.png&w=96&q=75",
+        "name":     "Node.js",
+        "moon":8,
+        "theSame":"Dasturlash",
+        "link1":"Standard"
+    },
+    {
+        "id":8,
+        "img":"https://najottalim.uz/_next/image?url=https%3A%2F%2Fnws.cdn.najottalim.uz%2Fmain-server%2Fcourses%2F690bea44-014e-42ca-a083-7078b5527f18.png&w=96&q=75",
+        "name":"Moushn grafika",
+        "moon":6,
+        "theSame":"Design",
+        "link1":"Standard"
+    },
+    {
+        "id":9,
+        "img":"https://najottalim.uz/_next/image?url=https%3A%2F%2Fnws.cdn.najottalim.uz%2Fmain-server%2Fcourses%2FMarketing_1f08e736-9028-420a-b558-38b98acdde9d.png&w=96&q=75",
+        "name":"SMM",
+        "moon":4,
+        "theSame":"Marketing",
+        "link1":"Boshqa"
+    }
+]

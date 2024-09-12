@@ -1,0 +1,9 @@
+@mixin body {
+    display: flex;
+    flex-wrap: wrap;
+    min-height: 100vh;
+    flex-direction: column;
+    background-color: #fff;
+    background-color: #FFFFFF;
+    font-family: "Inter", sans-serif;
+}

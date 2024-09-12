@@ -1,0 +1,13 @@
+[{
+        "img": "<svg xmlns='http://www.w3.org/2000/svg' width='48' height='48' fill='none'><rect width='48' height='48' fill='#11B181' rx='24'></rect><path fill='#fff' d='M38 34h-2V20a2 2 0 0 0-2-2h-8v-6a2 2 0 0 0-3.11-1.665L12.89 17a2 2 0 0 0-.89 1.668V34h-2a1 1 0 1 0 0 2h28a1 1 0 0 0 0-2m-4-14v14h-8V20zm-20-1.332L24 12v22H14zM22 22v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 2 0m-4 0v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 2 0m0 7v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 2 0m4 0v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 2 0'></path></svg>",
+        "text": "Dasturlash, dizayn va marketing kabi zamonaviy kasblar o‘rgatiladigan markaz."
+    },
+    {
+        "img": "<svg xmlns='http://www.w3.org/2000/svg' width='48' height='48 ' fill='none'><rect width='48' height='48' fill='#11B181' rx='24'></rect><path fill='#fff' d='M29.724 14.435a27.7 27.7 0 0 0-5.209-4.292 1 1 0 0 0-1.03 0 27.7 27.7 0 0 0-5.209 4.292C14.824 18.06 13 22.06 13 26a11 11 0 0 0 22 0c0-3.941-1.824-7.94-5.276-11.565M20 31c0-3.459 2.816-5.91 4-6.787 1.185.875 4 3.328 4 6.787a4 4 0 0 1-8 0m9.659 1.991c.226-.64.341-1.313.341-1.99 0-5.5-5.261-8.725-5.485-8.858a1 1 0 0 0-1.03 0C23.261 22.276 18 25.5 18 31c0 .678.115 1.352.341 1.991A8.99 8.99 0 0 1 15 26.001c0-4.302 2.55-7.895 4.69-10.15A27 27 0 0 1 24 12.193a27 27 0 0 1 4.31 3.658c3.876 4.087 4.69 7.774 4.69 10.15a8.99 8.99 0 0 1-3.341 6.99'></path></svg>",
+        "text": "Zamonaviy kasblar yordamida insonlar hayotini yaxshilovchi va kelajakka bo‘lgan ishonchni mustahkamlovchi maskan."
+    },
+    {
+        "img": "  <svg xmlns='http://www.w3.org/2000/svg' width='48' height='48' fill='none'><rect width='48' height='48' fill='#11B181' rx='24'></rect><path fill='#fff' d='M38.6 26.8a1 1 0 0 1-1.4-.2A6.45 6.45 0 0 0 32 24a1 1 0 0 1 0-2 3.001 3.001 0 0 0 2.371-4.837 3 3 0 0 0-5.276 1.087 1 1 0 1 1-1.937-.5 4.999 4.999 0 1 1 8.217 4.939 8.5 8.5 0 0 1 3.429 2.71 1 1 0 0 1-.204 1.4m-6.735 7.7a1 1 0 0 1-.343 1.402 1 1 0 0 1-1.387-.402 7.123 7.123 0 0 0-12.27 0 1 1 0 1 1-1.73-1 9 9 0 0 1 4.217-3.74 6 6 0 1 1 7.296 0 9 9 0 0 1 4.217 3.74M24 30a4 4 0 1 0 0-8 4 4 0 0 0 0 8m-7-7a1 1 0 0 0-1-1 3 3 0 1 1 2.905-3.75 1 1 0 0 0 1.938-.5 5 5 0 1 0-8.218 4.939 8.5 8.5 0 0 0-3.425 2.71 1 1 0 0 0 1.6 1.2A6.45 6.45 0 0 1 16 24a1 1 0 0 0 1-1'></path></svg>",
+        "text": "Bir vaqtning o‘zida 2500 dan ortiq o‘quvchilar va 350 dan ortiq katta jamoani bir maskanga yig‘a olgan ta‘lim va innovatsiya markazi."
+    }
+]
